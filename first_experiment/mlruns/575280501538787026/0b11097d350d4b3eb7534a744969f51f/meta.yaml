@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/emon1/OneDrive/Desktop/MLFlow%20Basic%202.0/mlruns/575280501538787026/0b11097d350d4b3eb7534a744969f51f/artifacts
+end_time: 1726160268481
+entry_point_name: ''
+experiment_id: '575280501538787026'
+lifecycle_stage: active
+run_id: 0b11097d350d4b3eb7534a744969f51f
+run_name: charming-sow-330
+run_uuid: 0b11097d350d4b3eb7534a744969f51f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726160188330
+status: 3
+tags: []
+user_id: emon1

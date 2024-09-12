@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/emon1/OneDrive/Desktop/MLFlow%20Basic%202.0/ml_flow_binary_classification/mlruns/550839190759893524/a9cd4d7a8bad48e5aa819ce1b41710b3/artifacts
+end_time: 1726161607150
+entry_point_name: ''
+experiment_id: '550839190759893524'
+lifecycle_stage: active
+run_id: a9cd4d7a8bad48e5aa819ce1b41710b3
+run_name: XGBClassifier With SMOTE
+run_uuid: a9cd4d7a8bad48e5aa819ce1b41710b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726161602333
+status: 3
+tags: []
+user_id: emon1

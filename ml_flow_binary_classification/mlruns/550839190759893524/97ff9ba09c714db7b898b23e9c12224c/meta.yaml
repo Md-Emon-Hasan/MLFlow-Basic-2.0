@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/emon1/OneDrive/Desktop/MLFlow%20Basic%202.0/ml_flow_binary_classification/mlruns/550839190759893524/97ff9ba09c714db7b898b23e9c12224c/artifacts
+end_time: 1726161597591
+entry_point_name: ''
+experiment_id: '550839190759893524'
+lifecycle_stage: active
+run_id: 97ff9ba09c714db7b898b23e9c12224c
+run_name: Random Forest
+run_uuid: 97ff9ba09c714db7b898b23e9c12224c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726161591925
+status: 3
+tags: []
+user_id: emon1
